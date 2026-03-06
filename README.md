@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ATorgers (Anders Torgersen)
-- 👀 I’m interested in code, guitar and more
-- 🌱 I’m currently learning Web Dev
+- 👀 I’m interested in code, architecture, guitar, foood&drink and more
+- 🌱 I’m currently learning Claude Code
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: snuders@gmail.com
 
